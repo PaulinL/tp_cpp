@@ -3,4 +3,4 @@ project(tp_note)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tp_note main.cpp)
+add_executable(ex1 exo1.cpp)
