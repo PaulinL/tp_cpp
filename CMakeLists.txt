@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ex1 exo1.cpp)
 add_executable(ex2 exo2.cpp)
+add_executable(ex3 exo3.cpp)
